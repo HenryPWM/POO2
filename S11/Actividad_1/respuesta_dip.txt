@@ -1,0 +1,3 @@
+1. El patron Singleton viola el Principio de Inversion de Dependencias (DIP) porque los modulos de alto nivel se acoplan directamente a una implementacion concreta mediante un acceso estatico global, en lugar de depender de una abstraccion o interfaz.
+2. Este acoplamiento rigido genera dependencias ocultas e impide sustituir la implementacion por dobles de prueba (mocks o stubs), dificultando las pruebas unitarias aisladas y el desacoplamiento del sistema.
+3. Se mitiga abstrayendo la funcionalidad tras una interfaz (ej. ILogger o IConfiguracion) e inyectando la instancia unica por constructor o parametro (Dependency Injection), delegando la gestion del ciclo de vida a un contenedor o factory.
