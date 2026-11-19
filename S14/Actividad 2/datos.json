@@ -1,0 +1,130 @@
+{
+  "456": {
+    "codigo": 456,
+    "nombre": "Anghely",
+    "ppa": 15.33,
+    "notas": [
+      11.0,
+      16.0,
+      19.0
+    ]
+  },
+  "26774": {
+    "codigo": 26774,
+    "nombre": "Henry Juarez Santander",
+    "ppa": 13.5,
+    "notas": [
+      13.0,
+      15.0,
+      12.0,
+      14.0
+    ]
+  },
+  "14523": {
+    "codigo": 14523,
+    "nombre": "Henry Juarez Vargas",
+    "ppa": 18.67,
+    "notas": [
+      19.0,
+      18.0,
+      19.0
+    ]
+  },
+  "12346": {
+    "codigo": 12346,
+    "nombre": "Lisbeth",
+    "ppa": 16.0,
+    "notas": [
+      17.0,
+      16.0,
+      15.0
+    ]
+  },
+  "45623": {
+    "codigo": 45623,
+    "nombre": "Roman",
+    "ppa": 9.67,
+    "notas": [
+      8.0,
+      11.0,
+      10.0
+    ]
+  },
+  "1001": {
+    "codigo": 1001,
+    "nombre": "Lucía Fernández Ramos",
+    "ppa": 17.33,
+    "notas": [
+      16.0,
+      18.0,
+      18.0
+    ]
+  },
+  "1002": {
+    "codigo": 1002,
+    "nombre": "Mateo Quispe Huamán",
+    "ppa": 8.67,
+    "notas": [
+      8.0,
+      9.0,
+      9.0
+    ]
+  },
+  "1003": {
+    "codigo": 1003,
+    "nombre": "Valeria Mendoza Flores",
+    "ppa": 15.5,
+    "notas": [
+      15.0,
+      16.0
+    ]
+  },
+  "1004": {
+    "codigo": 1004,
+    "nombre": "Sebastián Condori Mamani",
+    "ppa": 9.5,
+    "notas": [
+      10.0,
+      9.0
+    ]
+  },
+  "1005": {
+    "codigo": 1005,
+    "nombre": "Camila Vargas Paredes",
+    "ppa": 19.0,
+    "notas": [
+      18.0,
+      20.0
+    ]
+  },
+  "1006": {
+    "codigo": 1006,
+    "nombre": "Diego Morales Castillo",
+    "ppa": 12.33,
+    "notas": [
+      11.0,
+      13.0,
+      13.0
+    ]
+  },
+  "1007": {
+    "codigo": 1007,
+    "nombre": "Gabriela Apaza Centeno",
+    "ppa": 14.0,
+    "notas": [
+      14.0,
+      14.0,
+      14.0
+    ]
+  },
+  "1008": {
+    "codigo": 1008,
+    "nombre": "Rodrigo Gutierrez Vega",
+    "ppa": 7.5,
+    "notas": [
+      6.0,
+      8.0,
+      8.5
+    ]
+  }
+}
